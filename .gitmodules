@@ -1,3 +1,12 @@
 [submodule "cquoj-web-php"]
 	path = cquoj-web-php
 	url = https://github.com/xtestw/oj.git
+[submodule "cquoj-dispatcher"]
+	path = cquoj-dispatcher
+	url = https://github.com/xtestw/dispatcher.git
+[submodule "cquoj-localjudger"]
+	path = cquoj-localjudger
+	url = https://github.com/xtestw/LocalJudger.git
+[submodule "cquoj-vjudger"]
+	path = cquoj-vjudger
+	url = https://github.com/xtestw/VJudger.git
